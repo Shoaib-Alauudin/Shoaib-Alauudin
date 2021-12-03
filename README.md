@@ -1,5 +1,7 @@
 <div align="center">
-<h1> Hello folks<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"></h1>
+ 
+
+<h1> Hello folks, Welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
 <h3 align="left"> I'm student of Master's in Data Science</h3> </img>
