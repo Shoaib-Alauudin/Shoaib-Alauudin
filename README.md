@@ -5,7 +5,7 @@
 <p align="center"><img src="https://github.com/Shoaib-Alauudin/Shoaib-Alauudin/blob/main/Git_header.png" width="1380px" height="180px"></p>
 </img>
 
-### &nbsp;&nbsp;&nbsp;I'm student of Master's in Data Science
+### &nbsp;&nbsp;&nbsp;I've done my Graduation in Data Science
 
 - 🔭 I’m currently working on Machine Learning <br>
 - 🌱 I’m currently learning MLOps<br>
