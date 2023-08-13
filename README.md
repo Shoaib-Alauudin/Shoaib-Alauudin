@@ -8,9 +8,9 @@
 ### &nbsp;&nbsp;&nbsp;I've done my Graduation in Data Science
 
 - 🔭 I’m currently working on Machine Learning <br>
-- 🌱 I’m currently learning MLOps<br>
+- 🌱 I’m currently learning Generative AI<br>
 - 👯 I’m looking to collaborate on different ML communities<br>
-- 🤔 I’m looking for help with MLOps<br>
+- 🤔 I’m looking for help with MLOps, Generative AI, and large language model (LLM)<br>
 - 💬 Ask me about Data Science or any Machine Learning related stuff<br>
 - 📫 You can reach me out through email:  <a href="mailto:shoaib.alaudin@gmail.com" target="_blank"> shoaib.alaudin@gmail.com </a><br>
 - 😄 Pronouns: He/His<br>
